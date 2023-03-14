@@ -10,7 +10,7 @@
 
 # tsc
 
-/.github/CODEOWNERS @samkenx/tsc
+/.github/CODEOWNERS @nodejs/tsc
 /GOVERNANCE.md @nodejs/tsc
 /onboarding.md @nodejs/tsc
 /CODE_OF_CONDUCT.md @nodejs/tsc
